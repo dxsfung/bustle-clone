@@ -1,13 +1,13 @@
-<div class="container">
+<div class="container container-design">
   <div class="row">
     <div class="col-sm-6">
-      <p> <img class="image-responsive" src= {{article.photo}} alt= {{article.headline}} width="460" height="345"></p>
+      <p> <img align="middle" class="image-responsive article-picture" width=90% height=90% src= {{article.photo}} alt= {{article.headline}}></p>
     </div>
-    <div class="col-sm-6">
+    <div class="col-sm-6 article-tile-design">
       <h1>{{article.headline}}</h1>
-      <p>{{article.content}}</p>
-      <p>By {{article.author}}</p>
-      <p>{{article.timestamp}}</p>
+      <p class=article-content>{{article.content}}</p>
+      <p class="bottom-left">By {{article.author}}</p>
+      <p class="bottom-right">{{article.timestamp}}</p>
     </div>
   </div>
 </div>

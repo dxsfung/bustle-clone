@@ -1,0 +1,34 @@
+.article-tile-design {
+    height:100%;
+    /*margin: 30px;*/
+    padding: 20px;
+    background-color: powderblue;
+
+}
+.container-design {
+    height: 100%;
+    width: auto;
+    background-color: pink;
+}
+.article-content {
+  padding: 20px;
+  display: inline-block;
+}
+
+.bottom-left{
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 15px;
+  color: grey;
+}
+.bottom-right{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 15px;
+  color: grey;
+}
+.article-picture {
+  margin: 30px;
+}
