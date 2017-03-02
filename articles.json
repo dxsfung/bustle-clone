@@ -1,0 +1,9 @@
+{
+  "articles" : [ {
+    "headline" : "headline1",
+    "photo" : "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg",
+    "author" : "jaffery" ,
+    "content" : "Veruca Salt",
+    "timestamp" : "02 March 2017"
+  }]
+}

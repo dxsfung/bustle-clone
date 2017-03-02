@@ -1,0 +1,15 @@
+﻿#ember new project-name
+#cd project-name
+
+
+# Improving your Windows experience
+#Ensure Search and Defender ignore your project’s tmp directory:
+npm install --save-dev ember-cli-windows-addon
+
+# Then, to start the automatic configuration, run:
+ember windows
+
+ember serve
+
+#ember install emberfire
+#ember install ember-bootstrap
